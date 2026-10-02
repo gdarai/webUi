@@ -14,7 +14,7 @@ function App() {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          message: 'Hello, World!',
+          message: 'Hello, World! V2',
           count: 123,
           active: true,
           list: [ 'alice', 'bob', 'charlie' ],
